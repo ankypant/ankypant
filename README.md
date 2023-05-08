@@ -7,7 +7,7 @@ Senior Software Engineer
 Love to build amazing stuff
 
 * 🌍  I'm based in Amsterdam, Netherlands
-* ✉️  You can contact me at [mail@ankitpant.com](mailto:mail@ankitpant.com)
+* ✉️  You can mail me at [mail@ankitpant.com](mailto:mail@ankitpant.com)
 
 ### Skills
 
@@ -41,7 +41,7 @@ Love to build amazing stuff
 
 <a href="http://www.github.com/ankypant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankypant&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ankypant"><img src="https://activity-graph.herokuapp.com/graph?username=ankypant&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ankypant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankypant&theme=react" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ankypant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankypant&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
